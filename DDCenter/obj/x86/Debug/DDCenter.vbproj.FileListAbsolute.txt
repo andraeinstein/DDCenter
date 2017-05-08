@@ -1,0 +1,36 @@
+F:\Project Andra\Copy of DDCenter\DDCenter\bin\Debug\setting.ini
+F:\Project Andra\Copy of DDCenter\DDCenter\bin\Debug\DDCenter.exe.manifest
+F:\Project Andra\Copy of DDCenter\DDCenter\bin\Debug\DDCenter.application
+F:\Project Andra\Copy of DDCenter\DDCenter\bin\Debug\DDCenter.exe
+F:\Project Andra\Copy of DDCenter\DDCenter\bin\Debug\DDCenter.pdb
+F:\Project Andra\Copy of DDCenter\DDCenter\bin\Debug\DDCenter.xml
+F:\Project Andra\Copy of DDCenter\DDCenter\bin\Debug\MySql.Data.dll
+F:\Project Andra\Copy of DDCenter\DDCenter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Andra\Copy of DDCenter\DDCenter\obj\x86\Debug\DDCenter.Form1.resources
+F:\Project Andra\Copy of DDCenter\DDCenter\obj\x86\Debug\DDCenter.frmsetting.resources
+F:\Project Andra\Copy of DDCenter\DDCenter\obj\x86\Debug\DDCenter.Resources.resources
+F:\Project Andra\Copy of DDCenter\DDCenter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project Andra\Copy of DDCenter\DDCenter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project Andra\Copy of DDCenter\DDCenter\obj\x86\Debug\DDCenter.exe.manifest
+F:\Project Andra\Copy of DDCenter\DDCenter\obj\x86\Debug\DDCenter.application
+F:\Project Andra\Copy of DDCenter\DDCenter\obj\x86\Debug\DDCenter.exe
+F:\Project Andra\Copy of DDCenter\DDCenter\obj\x86\Debug\DDCenter.xml
+F:\Project Andra\Copy of DDCenter\DDCenter\obj\x86\Debug\DDCenter.pdb
+F:\Project Andra\DDCenter\DDCenter\bin\Debug\setting.ini
+F:\Project Andra\DDCenter\DDCenter\bin\Debug\DDCenter.exe.manifest
+F:\Project Andra\DDCenter\DDCenter\bin\Debug\DDCenter.application
+F:\Project Andra\DDCenter\DDCenter\bin\Debug\DDCenter.exe
+F:\Project Andra\DDCenter\DDCenter\bin\Debug\DDCenter.pdb
+F:\Project Andra\DDCenter\DDCenter\bin\Debug\DDCenter.xml
+F:\Project Andra\DDCenter\DDCenter\bin\Debug\MySql.Data.dll
+F:\Project Andra\DDCenter\DDCenter\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Project Andra\DDCenter\DDCenter\obj\x86\Debug\DDCenter.Form1.resources
+F:\Project Andra\DDCenter\DDCenter\obj\x86\Debug\DDCenter.frmsetting.resources
+F:\Project Andra\DDCenter\DDCenter\obj\x86\Debug\DDCenter.Resources.resources
+F:\Project Andra\DDCenter\DDCenter\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Project Andra\DDCenter\DDCenter\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Project Andra\DDCenter\DDCenter\obj\x86\Debug\DDCenter.exe.manifest
+F:\Project Andra\DDCenter\DDCenter\obj\x86\Debug\DDCenter.application
+F:\Project Andra\DDCenter\DDCenter\obj\x86\Debug\DDCenter.exe
+F:\Project Andra\DDCenter\DDCenter\obj\x86\Debug\DDCenter.xml
+F:\Project Andra\DDCenter\DDCenter\obj\x86\Debug\DDCenter.pdb
